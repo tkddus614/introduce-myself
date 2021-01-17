@@ -1,0 +1,59 @@
+body {
+  background-color: white;
+}
+header {
+  background-image: url("https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTAxMTlfMTg3%2FMDAxNTQ3ODc2OTYwNDE3.gzjGbS6Z2os5JyQRSUbdp12qe3odGbZ7Ht4NJR-05y0g.-ZP2g_35fPCsMjOr8IoQkJve8O5IADuV_rkCFS4RmcQg.JPEG.mii0621%2F%25BB%25EF%25BD%25C4%25BB%25A7.jpg&type=ofullfill340_600");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 60px 50px;
+  color: sienna;
+}
+h1 {
+  text-align: center;
+  font-family: "caveat";
+  font-size: 70px;
+}
+li {
+  font-family: thick;
+  font-size: 30px;
+  padding: 20px;
+}
+h2 {
+  text-align: center;
+  padding: 50px 50px;
+  border: 2px solid black;
+  border-radius: 80%;
+}
+#me,
+#subject {
+  padding: 200px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.55;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+#me {
+  background-image: url(https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMThfMjMg%2FMDAxNjA1Njc0Mjk4NTM0.uKo-LeCK8t2MUV2LI80Z6h96UrL0Ilu97L0FW5CrmZsg.C2UN5YTIyqFwAv6oM5yj2l0mAxAliidQBPrSFEYAAucg.JPEG.look_iu%2F15_image.jpg&type=a340);
+  color: ;
+}
+#subject {
+  background-image: url(https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMTlfNDUg%2FMDAxNjA4MzUzNzUyNjcy.-2zIpYEMia0r5UtzdUQ70Xct__DqY872dBXmzGouGYgg.flPk1FiiWLIuWJncCCf-SOjrE6uAGBdNgIPMDu7QEl4g.PNG.it_bank_%2F%25C0%25A5%25B0%25B3%25B9%25DF%25C0%25DA_%25B1%25B9%25BA%25F1%25C1%25F6%25BF%25F8_%25283%2529.png&type=a340);
+  color: white;
+}
+.private {
+  text-align: center;
+  font-family: italic;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  background-color: snow;
+}
+table,
+td {
+  padding: 10px;
+  border-spacing: 30px;
+}
